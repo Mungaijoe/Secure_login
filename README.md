@@ -1,2 +1,5 @@
 # Secure_login
-A secure login system
+##How To Test your system
+*go to [http://localhost/secure_login/register.php]
+*enter username,email and password
+*click register
